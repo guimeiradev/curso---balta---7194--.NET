@@ -1,0 +1,144 @@
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+G:\Projetos\Cursos Balta\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cs
+G:\Projetos\Cursos Balta\C# .NET\.NET 7194\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
